@@ -1,6 +1,6 @@
 <div class="neon-border" align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=FF10F0&lines=ROBIN+MULTI+DEVICE+BOT" alt="Typing SVG">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=FF10F0&lines=𝑫𝑰𝑵𝑬𝑻𝑯_𝑴𝑫" alt="Typing SVG">
     </a>
 </div>
 
